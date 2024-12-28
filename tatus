@@ -1,0 +1,121 @@
+[33mcommit 1ab6c657b87f1cf94807418a10ca794bdf20da58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 10:10:47 2024 -0500
+
+    added some functionality in excursion.py
+
+[33mcommit 543d7ca40e8bf47b798e946106e8b905c2cd1279[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 10:03:05 2024 -0500
+
+    Create excursion.py
+    
+    Create object p1 in class MyClass.
+
+[33mcommit 1a67700e5843c1d5513bd8d372572e1a8b0a98f4[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 09:43:58 2024 -0500
+
+    small changes do big things
+
+[33mcommit 37625796501e86f0bcb279b24d71fe1e1ea12fc1[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 09:36:23 2024 -0500
+
+    Create min_number.py
+
+[33mcommit df538eb7cfec4bfd0bc33e30fc070001c4e3cf5a[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:48:22 2024 -0500
+
+    min number
+
+[33mcommit dd06990ccef198ee3c1cad9b3f7e9a3ceca5ff4d[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:35:18 2024 -0500
+
+    Rename max_number to max_number.py
+
+[33mcommit fed0e0cdffdd45c21728a463e1a6dadef8a8832f[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:34:01 2024 -0500
+
+    Create max_number
+
+[33mcommit 4ce11736fd6d3176e19ba143d7070197e297465a[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:22:45 2024 -0500
+
+    add comment for royal.py
+
+[33mcommit a923f66e74f5de3e32ed41c012c196f066ab8a33[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:13:31 2024 -0500
+
+    create file royal.py
+
+[33mcommit 672d8c76105cb0687ec4c058c810d979c11f2fe0[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Sat Dec 28 00:09:25 2024 -0500
+
+    Create royal.py
+
+[33mcommit 812da8c8c8d39f544f79b6290b0cb6cd757adc44[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:57:08 2024 -0500
+
+    Create list
+
+[33mcommit b4cda7fdbdc1315b7794fa353d7d4675274e3073[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:54:26 2024 -0500
+
+    Create dir bassics aand file saaq.py
+
+[33mcommit 44b5b960c4c98d525660aa2248596a7f0fc47c81[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:32:57 2024 -0500
+
+    Added example_script_2.py
+
+[33mcommit 367e8607c9a474e51818e29e71c4a5d3e1722e55[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:20:52 2024 -0500
+
+    Rename welcome.py to hello.py
+
+[33mcommit a7360c071b83eb011f29bdfe07465cab249b03bd[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:06:37 2024 -0500
+
+    idea Updated3
+
+[33mcommit b4792f0267a9f9e88e4b16f4280dc7ee5d4316bd[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:05:45 2024 -0500
+
+    Updated2
+
+[33mcommit 01b09621ffa030990ab75235357a9d8cdf652131[m
+Author: Krasimir Spiridonov <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 23:05:04 2024 -0500
+
+    Updated .py file and readme file
+
+[33mcommit 7c2f95e91d5d2aef2943fbbad12550525766f027[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 21:52:25 2024 -0500
+
+    Create welcome.py
+
+[33mcommit da73daad22b28389fde4f18807d3fa9a442386f7[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 21:47:05 2024 -0500
+
+    Update README.md
+
+[33mcommit 8f1bc171664553e5f4a03b02e1fbfb8020762787[m
+Author: kress <krasimir.abc@gmail.com>
+Date:   Fri Dec 27 21:45:37 2024 -0500
+
+    Initial commit
