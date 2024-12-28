@@ -3,3 +3,4 @@ b = int(input())
 c = int(input())
 
 print(max(a, b, c))
+# Hi, how to print min number?
