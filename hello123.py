@@ -5,3 +5,4 @@ for _ in range(10):
 
 print('Hello from SoftUni')
 print('Hello from SoftUni')
+print('Hello from SoftUni')
